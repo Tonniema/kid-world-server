@@ -1,0 +1,73 @@
+[
+    {
+        "image": "https://www.portraitflip.com/wp-content/uploads/2022/08/portrait.jpg",
+        "name": " Portrait Painting",
+        "instructor": "Daniel Turner",
+        "available_seats": 28,
+        "price": 15
+      },
+    {
+        "image": "https://www.portraitflip.com/wp-content/uploads/2022/08/landscape.jpg",
+        "name": " Landscape Painting",
+        "instructor": "Emily Carter",
+        "available_seats": 37,
+        "price": 15
+      },
+    {
+        "image": "https://www.portraitflip.com/wp-content/uploads/2022/08/still-life.jpg",
+        "name": " Still Life Painting",
+        "instructor": "Jessica Miller",
+        "available_seats": 31,
+        "price": 15
+      },
+    {
+        "image": "https://www.portraitflip.com/wp-content/uploads/2022/08/abstract.jpg",
+        "name": " Abstract Painting",
+        "instructor": "David Hughes",
+        "available_seats": 22,
+        "price": 15
+      },
+    {
+        "image": "https://www.portraitflip.com/wp-content/uploads/2022/08/history.jpg",
+        "name": " History Painting",
+        "instructor": "Matthew Nelson",
+        "available_seats": 18,
+        "price": 15
+      },
+    {
+        "image": "https://s32625.pcdn.co/wp-content/uploads/2014/02/PicardPainterlyfinal.png",
+        "name": " Oil Painting",
+        "instructor": "Victoria Lee",
+        "available_seats": 14,
+        "price": 15
+      },
+    {
+        "image": "https://cdn.shopify.com/s/files/1/0252/2572/3982/files/1_9_9a02baee-44d6-4104-968e-1d50b8369bdd.jpg?v=1639121888",
+        "name": " Acrylic Painting",
+        "instructor": "Richard Scott",
+        "available_seats": 33,
+        "price": 15
+      },
+    {
+        "image": "https://cdn.shopify.com/s/files/1/0969/9128/products/Monarch_Butterfly_-_Contemporary_Watercolor_Painting_872f0589-ebb2-4180-9b78-cf28993498ae.jpg?v=1564403622",
+        "name": " Watercolor Painting",
+        "instructor": "Robert Foster",
+        "available_seats": 45,
+        "price": 17
+      },
+    {
+        "image": "https://4.bp.blogspot.com/-JK6XTDKvSuE/WoNhYJQnzBI/AAAAAAAAhm8/ttwsHJboqKYkJfnFsHx9fiAxTouR4gqNQCLcBGAs/s1600/IMG_3161.JPG",
+        "name": " Pastel Art",
+        "instructor": "Sarah Johnson",
+        "available_seats": 24,
+        "price": 15
+      },
+    {
+        "image": "https://www.momjunction.com/wp-content/uploads/2020/12/Nature-spray-painting.jpg",
+        "name": " Spray Painting",
+        "instructor": "Christopher Patel",
+        "available_seats": 30,
+        "price": 15
+      }
+      
+]
